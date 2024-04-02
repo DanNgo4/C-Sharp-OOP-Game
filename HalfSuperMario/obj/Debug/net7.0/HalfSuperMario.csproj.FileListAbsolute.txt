@@ -1,0 +1,15 @@
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\bin\Debug\net7.0\HalfSuperMario.exe
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\bin\Debug\net7.0\HalfSuperMario.deps.json
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\bin\Debug\net7.0\HalfSuperMario.runtimeconfig.json
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\bin\Debug\net7.0\HalfSuperMario.dll
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\bin\Debug\net7.0\HalfSuperMario.pdb
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.csproj.AssemblyReference.cache
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.AssemblyInfoInputs.cache
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.AssemblyInfo.cs
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.csproj.CoreCompileInputs.cache
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.dll
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\refint\HalfSuperMario.dll
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.pdb
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\HalfSuperMario.genruntimeconfig.cache
+C:\Users\ducda\OneDrive - Swinburne University\Documents\1. Study\1. Swinburne\2. Semester 2\COS20007 - Object Oriented Programming\CustomProgram\HalfSuperMario\obj\Debug\net7.0\ref\HalfSuperMario.dll
