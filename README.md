@@ -1,5 +1,5 @@
 # C-Sharp-OOP-Game
-University Project, First Year Semester 2
+## University Project, First Year Semester 2
 
 Demonstration video: https://www.youtube.com/watch?v=VbjjJcnQecA&ab_channel=DanhNg%C3%B4
 
